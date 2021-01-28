@@ -1,7 +1,9 @@
-node_modules
+/node_modules/
+/dist/
+/compiled/
+
 .tern-port
 npm-debug.log
 test/primus.save.async.js
 test/primus.save.sync.js
 .DS_Store
-dist
